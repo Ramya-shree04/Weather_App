@@ -15,7 +15,7 @@ The **Weather App** is a web-based application that allows users to check real-t
 Here are some previews of the app:
 
 ### 🌍 Main Interface  
-![Weather App3](weather%20app3.jpg)
+![Weather App3](weather_app3.jpg)
 
 ### 📊 Hourly Weather Report  
 ![Weather App 1](waether%20app1.jpg)
