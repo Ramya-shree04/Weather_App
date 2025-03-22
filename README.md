@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ Weather_App
 
 ## 📌 Overview
 The **Weather App** is a web-based application that allows users to check real-time weather conditions for any city. It provides essential weather details such as temperature, humidity, wind speed, and an hourly forecast. Additionally, the app features dynamic background changes and weather-specific icons based on the current weather conditions.
