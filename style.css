@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: url('assets/background.jpg') no-repeat center center/cover;
+    color: white;
+    transition: background 1s ease-in-out;
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+button {
+    background-color: orange;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkorange;
+}
+
+.weather-icons img {
+    width: 50px;
+    opacity: 0.5;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.weather-icons img.active {
+    opacity: 1;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+canvas {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+.dark-mode {
+    background: black;
+    color: white;
+}
